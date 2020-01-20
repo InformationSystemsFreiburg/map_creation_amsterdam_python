@@ -2,9 +2,9 @@
 
 This tutorial teaches you how to plot map data on a background map of OpenStreetMap using Python. The [tutorial is in form of a Jupyter Notebook](code.ipynb), therefore you either install Jupyter Lab or you can also copy the code into any other editor. The results should look like the following images:
 
-![Map 1](resources/plot2.png)
-![Map 2](resources/plot3.png)
-![Map 3](resources/plot4.png)
+![Map 1](resources/map1.png)
+![Map 2](resources/map2.png)
+![Map 3](resources/map3.png)
 
 ## Installation
 
