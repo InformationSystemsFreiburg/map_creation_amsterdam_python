@@ -11,8 +11,7 @@ This tutorial teaches you how to plot map data on a background map of OpenStreet
 This tutorial requires the installation of multiple packages, a few of them are not installable for windows under pip. Therefore, the packages
 
 ```bash
-Fiona
-GDAL
+FionaGDAL
 Rtree
 Shapely
 ```
@@ -25,6 +24,7 @@ pip install .\package_wheels_windows\GDAL-3.0.1-cp37-cp37m-win_amd64.whl
 pip install .\package_wheels_windows\Rtree-0.8.3-cp37-cp37m-win_amd64.whl
 pip install .\package_wheels_windows\Shapely-1.6.4.post2-cp37-cp37m-win_amd64.whl
 ```
+
 After that, the rest of the packages should be easily installable by using the provided requirements.txt file:
 
 ```bash
