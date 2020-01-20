@@ -4,6 +4,7 @@ This tutorial teaches you how to plot map data on a background map of OpenStreet
 
 ![Map 1](resources/plot2.png)
 ![Map 2](resources/plot3.png)
+![Map 3](resources/plot4.png)
 
 ## Installation
 
