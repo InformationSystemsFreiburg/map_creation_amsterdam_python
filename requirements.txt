@@ -45,7 +45,7 @@ regex==2020.1.8
 requests==2.22.0
 Rtree==0.8.3
 scikit-learn==0.20.2
-scipy==1.4.1
+scipy==1.10.0
 seaborn==0.9.0
 Shapely==1.6.4.post2
 six==1.13.0
